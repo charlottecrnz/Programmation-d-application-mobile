@@ -8,7 +8,7 @@ Les composantes obligatoires se trouvent dans le document [Consignes][consigne].
 Pour essayer l'application, vous devez d'abord télécharger XCode [ici][version] sachant que ce logiciel est disponible uniquement sous Mac OS.
 Après avoir installer le logiciel, vous pouvez faire les étapes suivantes :
 - Clônez le projet via cette commande : ``
-git clone https://github.com/MonitorControl/MonitorControl.git ``
+git clone https://github.com/charlottecrnz/Programmation-d-application-mobile.git``
 - Ouvrez le fichier ``TP2.xcodeproj`` avec Xcode ! Les dépendances seront automatiquement téléchargées une fois que vous aurez ouvert le projet. Si ce n'est pas le cas : ``File > Packages > Resolve Package Versions``
 
 ## Exemple
