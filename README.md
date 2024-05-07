@@ -9,7 +9,7 @@ Pour essayer l'application, vous devez d'abord télécharger XCode [ici][version
 Après avoir installer le logiciel, vous pouvez faire les étapes suivantes :
 - Clônez le projet via cette commande : ``
 git clone https://github.com/MonitorControl/MonitorControl.git ``
-- Ouvrez le fichier ``MonitorControl.xcodeproj`` avec Xcode ! Les dépendances seront automatiquement téléchargées une fois que vous aurez ouvert le projet. Si ce n'est pas le cas : ``File > Packages > Resolve Package Versions``
+- Ouvrez le fichier ``TP2.xcodeproj`` avec Xcode ! Les dépendances seront automatiquement téléchargées une fois que vous aurez ouvert le projet. Si ce n'est pas le cas : ``File > Packages > Resolve Package Versions``
 
 ## Exemple
 ![application](./Vidéos/app.mov)
